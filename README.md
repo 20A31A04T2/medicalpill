@@ -7,4 +7,6 @@
 ### Project link-
 ### Project demo video link-
 ## Azure Technologies used for Project
-###
+Static web apps
+Health bot
+## Features and Functionalities
