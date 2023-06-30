@@ -27,3 +27,4 @@ This is a web based application developed for health related telugu based websit
   Included the feedback Survey form to increase the scope of improvement.
 
 ## Screenshots
+![Screenshot (2)](https://github.com/20A31A04T2/medicalpill/assets/124042741/e315a239-ca8b-4e75-8b56-138a7b0068b4)
