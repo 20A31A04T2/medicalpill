@@ -49,7 +49,16 @@ This is a web based application developed for health related telugu based websit
 ## Contact Us
 ![Screenshot (11)](https://github.com/20A31A04T2/medicalpill/assets/124042741/65320acb-2238-4ee6-a8a8-2a2ce8b77bde)
 
+## Tech Stack 💻
+[Azure(Hosting)]
 
+HTML
+
+CSS
+
+Bootstrap
+
+JavaScript
 
 
 
