@@ -5,8 +5,12 @@
 
 ### This application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 ### Project link-
+
 ### Project demo video link-
+
 ## Azure Technologies used for Project
-Static web apps
-Health bot
+  Static web apps
+  
+  Health bot
+  
 ## Features and Functionalities
