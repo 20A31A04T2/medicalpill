@@ -43,6 +43,14 @@ This is a web based application developed for health related telugu based websit
 
 ![Screenshot (19)](https://github.com/20A31A04T2/medicalpill/assets/124042741/c8d8d753-f93f-4f1b-94f5-139bd15bfddf)
 
+## Pillsbot
+![Screenshot (9)](https://github.com/20A31A04T2/medicalpill/assets/124042741/4e7f3d66-53a3-45b8-a1c8-67732e765b89)
+
+## Contact Us
+![Screenshot (11)](https://github.com/20A31A04T2/medicalpill/assets/124042741/65320acb-2238-4ee6-a8a8-2a2ce8b77bde)
+
+
+
 
 
 
